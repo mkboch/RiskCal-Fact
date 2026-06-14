@@ -1,0 +1,6 @@
+name: rcv_py310
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+prefix: /home/manikm/miniconda3/envs/rcv_py310

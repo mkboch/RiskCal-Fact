@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+torch
+transformers
+datasets
+sentence-transformers
+rank-bm25
+faiss-cpu
+tqdm
+tabulate
+jinja2
+pyyaml
+jsonlines
